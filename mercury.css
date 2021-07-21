@@ -1,0 +1,40 @@
+body{
+  background-color:black;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family:Bebas Neue;
+  font-size:150px;
+  color:black;
+}
+h1{
+  font-family:Bebas Neue;
+  color:white;
+  text-align:center;
+  font-size:100px;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+.small{
+  color:white;
+  font-size:10px;
+  text-align:left;
+ 
+}
+  .bigone{
+    width:150%;
+  }
+.Mercury{
+  width:100%;
+}
+.row{
+  height:100%;
+}
+li{
+  font-size:30px;
+  color:white;
+  text-align:left;
+}
